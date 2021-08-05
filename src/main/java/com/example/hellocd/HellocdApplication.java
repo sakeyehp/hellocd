@@ -19,6 +19,6 @@ class Hello {
 
     @RequestMapping("/")
     String index() {
-        return "Welcome to the Homepage";
+        return "Welcome to the new Homepage";
     }
 }
